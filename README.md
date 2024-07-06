@@ -42,4 +42,4 @@ For any questions or feedback, please contact me at:
 
 * Email: ipshitatandon@gmail.com
 * Linkedin: https://www.linkedin.com/in/ipshita-tandon-505157257/
-* GitHub: https://github.com/Ipshita-Tandon/localsphere
+* GitHub: https://github.com/Ipshita-Tandon/game-development
